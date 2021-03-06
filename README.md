@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning 
+🌱 I’m currently learning 
 -    Blockchain for the Internet of Things
 -    Artificial Intelligence & Machine Learning for IoT systems
-- 
 <!--
 **pradeepkrathnayaka/pradeepkrathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
