@@ -17,6 +17,9 @@
 [![views](https://komarev.com/ghpvc/?username=pradeepkrathnayaka&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/pradeepkrathnayaka/)
 <br />
  
+[twitter]: https://twitter.com/topradeep
+[instagram]: https://instagram.com/pradeepkrathnayaka1986
+[linkedin]: https://linkedin.com/in/pradeepkrathnayaka
 <!--
 **pradeepkrathnayaka/pradeepkrathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
