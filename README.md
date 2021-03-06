@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I am Pradeep - aka Pradeep Rathnayaka 👋
 🌱 I’m currently learning 
 -    Blockchain for the Internet of Things
 -    Artificial Intelligence & Machine Learning for IoT systems
+-    2021 Goals: 
+--      Take my skills to the next level and improve my knowledge.
 <!--
 **pradeepkrathnayaka/pradeepkrathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
