@@ -1,11 +1,13 @@
 ### Hi there, I am Pradeep - aka Pradeep Rathnayaka 👋
 
-## I'm a Senior Software Engineer!
+## I'm a Senior Fullstack Engineer & Generative AI Specialist! 🚀
 
-🌱 I’m currently learning 
--    Blockchain for the Internet of Things
--    Artificial Intelligence & Machine Learning for IoT systems
-- 🥅 2021 Goals: 
+🌱 I’m currently working on 
+- 💡Building Large Language Models (LLMs) and Agentic AI-powered systems.
+- 🤝 Interested in Conversational AI, Reinforcement Learning and Knowledge Graphs.
+- 📚 Enhancing AI interactions through Model Context Protocol (MCP), leveraging frameworks for seamless model communication..
+- 🔍 Building intelligent, data-driven solutions with Retrieval Augmented Generation (RAG).
+- 🥅 2025 Goals: 
   -  Take my skills to the next level and improve my knowledge.
  
  
@@ -44,6 +46,9 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="typescript" width="40" height="40"/> </a>
 
 </p>
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkrathnayaka&show_icons=true)
+![Pradeep's Github stats](https://github-readme-stats.vercel.app/api?username=pradeepkrathnayaka&show_icons=true)
 
 <!--
 **pradeepkrathnayaka/pradeepkrathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
