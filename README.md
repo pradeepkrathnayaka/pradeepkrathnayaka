@@ -1,13 +1,22 @@
 ### Hi there, I am Pradeep - aka Pradeep Rathnayaka 👋
 
-## I'm a Senior Fullstack Engineer & Generative AI Specialist! 🚀
+## Senior Fullstack Engineer • Software Architect • Java & Python Specialist • Generative AI Specialist! 🚀
+
+💡 **Main interests:**
+
+- Software Architecture
+- Microservices & Event-Driven Architecture
+- Reactive and scalable systems
+- Distributed system integration
+- Software quality and engineering best practices
+
 
 🌱 I’m currently working on 
 - 💡Building Large Language Models (LLMs) and Agentic AI-powered systems.
 - 🤝 Interested in Conversational AI, Reinforcement Learning and Knowledge Graphs.
 - 📚 Enhancing AI interactions through Model Context Protocol (MCP), leveraging frameworks for seamless model communication..
 - 🔍 Building intelligent, data-driven solutions with Retrieval Augmented Generation (RAG).
-- 🥅 2025 Goals: 
+- 🥅 2026 Goals: 
   -  Take my skills to the next level and improve my knowledge.
  
  
